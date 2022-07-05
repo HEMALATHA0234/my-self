@@ -1,0 +1,70 @@
+body{
+    background-color: beige;
+}
+#name{
+    color:rebeccapurple;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav ul{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 50px;
+    text-decoration:none;
+}
+#home{
+    background-color: bisque;
+    color: blue;
+    font-size: larger;
+    text-align: center;
+}
+#heading{
+    background-color:silver;
+    color:blue;
+    font-size: larger;
+
+
+
+}
+#h3i{
+    color:darkgreen;
+    font-size: 40px;
+}
+#h3{
+    color: darkgreen;
+    font-size: 30px;
+}
+#edu{
+    color: blue;
+    font-size: larger;
+}
+#aboutme{
+    color: blue ;
+    font-size:larger;
+}
+#h{
+    color: darkgreen;
+    font-size: 30px;
+} 
+#skills{
+    color: blue ;
+    font-size:larger;
+
+}
+#image{
+    height: 150px;
+}
+#phone{
+    height:20px;
+}
+#insta{
+    height:20px;
+}
+#linkdin{
+    height:20px;
+}
+#facebook{
+    height:20px;
+}
